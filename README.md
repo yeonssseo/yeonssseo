@@ -11,8 +11,10 @@
   <br/>
   <br/>
   ### :hand: About me
-  
-  
+
+  <br/>
+  <br/>
+  <br/>
   
   ### 💬Contact 
 
@@ -22,6 +24,10 @@
    <br/>
 
   ### :computer: Tech Stack 
+
+  <br/>
+  <br/>
+  <br/>
    
   [![yeonssseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonssseo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
